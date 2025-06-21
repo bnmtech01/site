@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursos Online de IA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo">BNM NEXUS</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Serviços</a></li>
+                    <li><a href="#">Soluções</a></li>
+                    <li><a href="#">Cursos Online</a></li>
+                    <li><a href="#">Depoimentos</a></li>
+                    <li><a href="#">Preços</a></li>
+                    <li><a href="#">Contato</a></li>
+                </ul>
+            </nav>
+            <button class="cta-header">Começar Agora</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container text-center">
+                <h1>Cursos Online de IA</h1>
+                <p>Aprenda a implementar AI Agents no seu negócio com nossos cursos práticos e atualizados. Do básico ao avançado, com certificação e suporte especializado.</p>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="container grid">
+                <div class="card">
+                    <h3>Conteúdo Prático</h3>
+                    <p>Aprenda com projetos reais e casos de uso aplicados ao mercado brasileiro.</p>
+                </div>
+                <div class="card">
+                    <h3>Mentoria Personalizada</h3>
+                    <p>Suporte direto com nossos especialistas em IA para tirar dúvidas.</p>
+                </div>
+                <div class="card">
+                    <h3>Ritmo Flexível</h3>
+                    <p>Estude no seu tempo, com acesso vitalício aos conteúdos.</p>
+                </div>
+                <div class="card">
+                    <h3>Certificação</h3>
+                    <p>Receba certificado reconhecido no mercado ao concluir os cursos.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container text-center">
+            <p>© 2024 BNM NEXUS. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
